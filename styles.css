@@ -54,6 +54,28 @@ label {
 	margin-bottom: 5px;
 }
 
+.interest-buttons {
+	background-color: #ddd;
+	border: 2px solid rgb(250, 250, 153);
+	color: black;
+	padding: 20px 10px;
+	margin-left: 15px;
+	margin-top: 10px;
+	border-radius: 8px;
+	font-weight: bold;
+	transition-duration: 0.4s;
+}
+
+.interest-buttons:hover {
+	background-color: rgb(250, 250, 153);;
+	color: black;
+	padding: 20px 10px;
+	margin-left: 15px;
+	border-radius: 8px;
+	font-weight: bold;
+	cursor:pointer;
+}
+
 #checkbox {
 	padding: 5px;
 	font-size: 14px;
