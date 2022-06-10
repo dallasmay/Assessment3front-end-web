@@ -36,3 +36,24 @@ input {
 img {
 	max-width: 300px;
 }
+
+label {
+	display: inline;
+}
+
+#Google {
+	display: inline;
+}
+
+#friend {
+	display: inline;
+}
+
+#other {
+	display: inline;
+}
+
+#checkbox {
+	padding: 5px;
+	font-size: 14px;
+}
