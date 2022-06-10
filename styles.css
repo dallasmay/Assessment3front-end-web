@@ -45,8 +45,13 @@ label {
 	display: inline;
 }
 
-#disco-submit {
-	margin: 10px;
+.submit-button {
+	margin-top: 10px;
+}
+
+.input-text {
+	margin-top: 5px;
+	margin-bottom: 5px;
 }
 
 #checkbox {
