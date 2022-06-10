@@ -41,16 +41,12 @@ label {
 	display: inline;
 }
 
-#Google {
+.inline-input {
 	display: inline;
 }
 
-#friend {
-	display: inline;
-}
-
-#other {
-	display: inline;
+#disco-submit {
+	margin: 10px;
 }
 
 #checkbox {
